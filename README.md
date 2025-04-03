@@ -1,7 +1,11 @@
 # Data Scientist
 
 ### Education
-Physics, Maths, Chemistry
+University of jaffna, Departmrnt of Computer Science
+- Bachelor of Science Honours in Computer SCience
+
+Advanced Level
+-Physics, Combined Mathematics, Chemistry
 
 ### Work Experience
 Data scientist @ ABC company
